@@ -9,7 +9,7 @@ CREATE TABLE contract_lines (
 	product_id		        	  NVARCHAR (50),
 	contract_unit_price_usd		  DECIMAL(18,2),
 	min_order_qty		          INT,
-	max_discount_pct	          DECIMAL(18,2)
+	max_discount_pct	          DECIMAL(18,3)
 );
 
 
@@ -23,8 +23,8 @@ CREATE TABLE contracts (
   end_date		            	DATE,
   currency	               		NVARCHAR (50),
   price_adjustment_clause   	NVARCHAR (50),
-  discount_pct              	DECIMAL(3,10),
-  target_margin_pct         	DECIMAL(3,10),
+  discount_pct              	DECIMAL(3,3),
+  target_margin_pct         	DECIMAL(3,3),
   status                    	NVARCHAR (50)
 );
 
@@ -73,8 +73,8 @@ IF OBJECT_ID ('exchange_rates', 'U') IS NOT NULL
 CREATE TABLE exchange_rates (
 	rate_month		    DATE,
 	usd_clp	          	DECIMAL(10,2),
-	eur_usd		        DECIMAL(2,5),
-	cpi_monthly_pct	  	DECIMAL(2,5),
+	eur_usd		        DECIMAL(2,2),
+	cpi_monthly_pct	  	DECIMAL(2,2),
 	freight_index	    DECIMAL(10,2)
 );
 
@@ -155,7 +155,7 @@ CREATE TABLE sales_orders (
 	unit_cost_usd			DECIMAL(18,2),
 	revenue_usd				DECIMAL(18,2),
 	gross_margin_usd		DECIMAL(18,2),
-	gross_margin_pct		DECIMAL(2,5),
+	gross_margin_pct		DECIMAL(5,3),
 	requested_date			DATE,
 	promised_date			DATE,
 	shipped_date			DATE,	
@@ -163,7 +163,7 @@ CREATE TABLE sales_orders (
 	sales_channel			VARCHAR(50)
 );
 
-IF OBJECT ('suppliers', 'U') IS NOT NULL
+IF OBJECT_ID ('suppliers', 'U') IS NOT NULL
 	DROP TABLE suppliers;
 CREATE TABLE suppliers (
 	supplier_id				VARCHAR(50),

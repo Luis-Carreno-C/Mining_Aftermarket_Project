@@ -38,8 +38,7 @@ CREATE TABLE customers (
 	commodity	      	NVARCHAR (50),
 	segment		        NVARCHAR (50),
 	account_tier	  	NVARCHAR (50),
-	country	          	NVARCHAR (50),
-	sls_price	      	NVARCHAR (50)
+	country	          	NVARCHAR (50)
 );
 
 IF OBJECT_ID ('demand_forecast', 'U') IS NOT NULL

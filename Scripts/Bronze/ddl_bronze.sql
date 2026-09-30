@@ -73,8 +73,8 @@ IF OBJECT_ID ('exchange_rates', 'U') IS NOT NULL
 CREATE TABLE exchange_rates (
 	rate_month		    DATE,
 	usd_clp	          	DECIMAL(10,2),
-	eur_usd		        DECIMAL(2,2),
-	cpi_monthly_pct	  	DECIMAL(2,2),
+	eur_usd		        DECIMAL(10,2),
+	cpi_monthly_pct	  	DECIMAL(10,2),
 	freight_index	    DECIMAL(10,2)
 );
 
@@ -155,7 +155,7 @@ CREATE TABLE sales_orders (
 	unit_cost_usd			DECIMAL(18,2),
 	revenue_usd				DECIMAL(18,2),
 	gross_margin_usd		DECIMAL(18,2),
-	gross_margin_pct		DECIMAL(5,3),
+	gross_margin_pct		DECIMAL(10,3),
 	requested_date			DATE,
 	promised_date			DATE,
 	shipped_date			DATE,	

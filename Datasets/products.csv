@@ -1,0 +1,121 @@
+product_id,sku,product_name,equipment_family,product_family,criticality,uom,list_price_usd,standard_cost_usd,is_mto,lifecycle_status
+PRD0001,THI-0001-S,Rake Arm Component S Rubber,Thickener,Rake Arm Component,Critical,EA,43138.07,25178.48,0,Active
+PRD0002,THI-0002-HD,Rake Arm Component HD Chrome Alloy,Thickener,Rake Arm Component,Critical,EA,22845.1,14385.55,0,Active
+PRD0003,MIL-0003-M,Liner Plate M Chrome Alloy,Mill,Liner Plate,High,EA,11268.17,7503.74,1,Active
+PRD0004,PUM-0004-STD,Impeller STD Composite,Pump,Impeller,High,EA,7005.27,3654.58,0,Active
+PRD0005,FLO-0005-L,Rotor L Steel,Flotation,Rotor,High,EA,5624.54,4041.28,0,Active
+PRD0006,FLO-0006-S,Stator S Composite,Flotation,Stator,High,EA,10781.96,7299.05,0,Active
+PRD0007,PUM-0007-S,Casing S Polyurethane,Pump,Casing,Medium,EA,5393.12,3215.52,0,Phase-out
+PRD0008,MIL-0008-HD,Liner Plate HD Rubber,Mill,Liner Plate,High,EA,6262.42,3627.53,0,Active
+PRD0009,WEA-0009-M,Chute Liner M Rubber,Wear Parts,Chute Liner,High,EA,1648.2,1051.36,0,Active
+PRD0010,FLO-0010-L,Rotor L Steel,Flotation,Rotor,High,EA,8581.14,6028.02,0,Phase-out
+PRD0011,THI-0011-M,Rake Arm Component M Chrome Alloy,Thickener,Rake Arm Component,Critical,EA,42752.93,24047.87,1,Active
+PRD0012,LUB-0012-HD,Filter Element HD Manganese,Lubrication,Filter Element,Medium,EA,506.92,353.83,0,Active
+PRD0013,WEA-0013-S,Chute Liner S Composite,Wear Parts,Chute Liner,High,EA,1681.86,903.51,0,Active
+PRD0014,THI-0014-XL,Rake Arm Component XL Polyurethane,Thickener,Rake Arm Component,Critical,EA,47575.18,32690.88,0,Active
+PRD0015,CRU-0015-M,Spider Bushing M Manganese,Crusher,Spider Bushing,Critical,EA,42397.88,,1,Active
+PRD0016,LUB-0016-STD,Filter Element STD Polyurethane,Lubrication,Filter Element,Medium,EA,425.04,331.24,0,Phase-out
+PRD0017,PUM-0017-S,Impeller S Rubber,Pump,Impeller,High,EA,7253.29,4059.95,0,Active
+PRD0018,SCR-0018-S,Screen Panel S Polyurethane,Screening,Screen Panel,Medium,EA,1237.94,964.34,0,Phase-out
+PRD0019,WEA-0019-S,Chute Liner S Manganese,Wear Parts,Chute Liner,High,EA,2193.15,1529.16,0,Active
+PRD0020,CRU-0020-L,Concave L Polyurethane,Crusher,Concave,High,EA,17779.47,9260.33,0,Phase-out
+PRD0021,HYD-0021-M,Cylinder Seal Kit M Chrome Alloy,Hydraulics,Cylinder Seal Kit,Medium,EA,1484.5,1107.93,0,Phase-out
+PRD0022,SCR-0022-M,Screen Panel M Steel,Screening,Screen Panel,Medium,EA,1228.7,690.53,0,Phase-out
+PRD0023,FLO-0023-XL,Rotor XL Rubber,Flotation,Rotor,High,EA,4952.14,3042.47,0,Active
+PRD0024,CRU-0024-M,Mantle M Chrome Alloy,Crusher,Mantle,High,EA,28745.09,15587.6,1,Active
+PRD0025,HYD-0025-STD,Cylinder Seal Kit STD Steel,Hydraulics,Cylinder Seal Kit,Medium,EA,739.47,475.9,0,Active
+PRD0026,PUM-0026-STD,Casing STD Polyurethane,Pump,Casing,Medium,EA,11946.29,9097.31,0,Active
+PRD0027,FLO-0027-HD,Stator HD Manganese,Flotation,Stator,High,EA,7368.63,5555.21,1,Active
+PRD0028,MIL-0028-M,Liner Plate M Rubber,Mill,Liner Plate,High,EA,8892.77,5984.48,0,Phase-out
+PRD0029,MIL-0029-S,Liner Plate S Rubber,Mill,Liner Plate,High,EA,12220.57,6541.76,0,Active
+PRD0030,WEA-0030-L,Chute Liner L Rubber,Wear Parts,Chute Liner,High,EA,1862.65,1103.44,1,Active
+PRD0031,PUM-0031-M,Casing M Manganese,Pump,Casing,Medium,EA,11732.81,7843.05,1,Active
+PRD0032,HYD-0032-XL,Cylinder Seal Kit XL Polyurethane,Hydraulics,Cylinder Seal Kit,Medium,EA,798.39,435.28,1,Active
+PRD0033,FLO-0033-XL,Stator XL Polyurethane,Flotation,Stator,High,EA,10899.62,5821.32,0,Active
+PRD0034,FLO-0034-HD,Stator HD Composite,Flotation,Stator,High,EA,10444.27,5727.74,0,Active
+PRD0035,PUM-0035-XL,Casing XL Steel,Pump,Casing,Medium,EA,7931.92,4699.04,0,Active
+PRD0036,PUM-0036-STD,Impeller STD Rubber,Pump,Impeller,High,EA,3362.82,2622.37,0,Active
+PRD0037,LUB-0037-M,Filter Element M Steel,Lubrication,Filter Element,Medium,EA,443.69,286.25,1,Active
+PRD0038,CRU-0038-XL,Spider Bushing XL Rubber,Crusher,Spider Bushing,Critical,EA,57235.81,,1,Active
+PRD0039,FLO-0039-HD,Stator HD Manganese,Flotation,Stator,High,EA,11847.04,7872.36,1,Active
+PRD0040,MIL-0040-L,Liner Plate L Steel,Mill,Liner Plate,High,EA,14568.38,9769.36,0,Active
+PRD0041,CRU-0041-S,Mantle S Chrome Alloy,Crusher,Mantle,High,EA,20282.19,15395.01,0,Active
+PRD0042,PUM-0042-S,Casing S Steel,Pump,Casing,Medium,EA,5317.06,2858.82,0,Active
+PRD0043,CRU-0043-STD,Concave STD Steel,Crusher,Concave,High,EA,27036.22,14338.2,0,Active
+PRD0044,THI-0044-STD,Rake Arm Component STD Chrome Alloy,Thickener,Rake Arm Component,Critical,EA,36356.26,27740.69,0,Active
+PRD0045,MIL-0045-L,Liner Plate L Polyurethane,Mill,Liner Plate,High,EA,7027.9,4834.0,1,Active
+PRD0046,LUB-0046-S,Filter Element S Rubber,Lubrication,Filter Element,Medium,EA,465.48,362.89,0,Active
+PRD0047,PUM-0047-M,Casing M Chrome Alloy,Pump,Casing,Medium,EA,6772.48,5165.01,0,Active
+PRD0048,FLO-0048-L,Rotor L Steel,Flotation,Rotor,High,EA,7073.2,4677.06,0,Phase-out
+PRD0049,HYD-0049-HD,Cylinder Seal Kit HD Chrome Alloy,Hydraulics,Cylinder Seal Kit,Medium,EA,624.93,457.73,0,Active
+PRD0050,LUB-0050-M,Filter Element M Composite,Lubrication,Filter Element,Medium,EA,321.48,176.12,0,Active
+PRD0051,MIL-0051-STD,Trunnion Seal STD Steel,Mill,Trunnion Seal,Critical,EA,36925.53,21155.94,1,Active
+PRD0052,PUM-0052-XL,Casing XL Composite,Pump,Casing,Medium,EA,11509.49,8516.87,0,Active
+PRD0053,WEA-0053-L,Chute Liner L Rubber,Wear Parts,Chute Liner,High,EA,1045.67,753.4,0,Active
+PRD0054,CON-0054-XL,Pulley Lagging XL Chrome Alloy,Conveyor,Pulley Lagging,Medium,EA,3118.04,2076.1,0,Active
+PRD0055,LUB-0055-HD,Filter Element HD Steel,Lubrication,Filter Element,Medium,EA,502.15,370.08,0,Active
+PRD0056,CRU-0056-S,Spider Bushing S Composite,Crusher,Spider Bushing,Critical,EA,35512.8,27082.16,0,Active
+PRD0057,MIL-0057-HD,Liner Plate HD Steel,Mill,Liner Plate,High,EA,11852.4,7253.15,1,Phase-out
+PRD0058,CON-0058-M,Pulley Lagging M Steel,Conveyor,Pulley Lagging,Medium,EA,3483.59,2695.65,0,Active
+PRD0059,CRU-0059-M,Mantle M Manganese,Crusher,Mantle,High,EA,28340.77,20502.29,1,Active
+PRD0060,MIL-0060-M,Trunnion Seal M Manganese,Mill,Trunnion Seal,Critical,EA,20468.58,15285.19,1,Active
+PRD0061,MIL-0061-XL,Liner Plate XL Composite,Mill,Liner Plate,High,EA,8596.72,,0,Active
+PRD0062,CRU-0062-HD,Mantle HD Steel,Crusher,Mantle,High,EA,18872.39,11180.7,0,Active
+PRD0063,FLO-0063-HD,Rotor HD Chrome Alloy,Flotation,Rotor,High,EA,6822.91,5288.43,0,Active
+PRD0064,CRU-0064-L,Concave L Steel,Crusher,Concave,High,EA,27072.97,21001.13,0,Active
+PRD0065,SCR-0065-XL,Screen Panel XL Composite,Screening,Screen Panel,Medium,EA,1654.25,995.12,0,Active
+PRD0066,LUB-0066-STD,Filter Element STD Steel,Lubrication,Filter Element,Medium,EA,379.98,267.61,0,Phase-out
+PRD0067,LUB-0067-STD,Filter Element STD Manganese,Lubrication,Filter Element,Medium,EA,575.16,410.04,0,Active
+PRD0068,FLO-0068-S,Stator S Manganese,Flotation,Stator,High,EA,11309.55,7713.34,0,Active
+PRD0069,PUM-0069-L,Casing L Manganese,Pump,Casing,Medium,EA,7832.11,4892.12,0,Phase-out
+PRD0070,CRU-0070-M,Spider Bushing M Polyurethane,Crusher,Spider Bushing,Critical,EA,46022.53,28468.51,1,Active
+PRD0071,SCR-0071-STD,Screen Panel STD Composite,Screening,Screen Panel,Medium,EA,1267.29,933.7,0,Active
+PRD0072,MIL-0072-XL,Liner Plate XL Chrome Alloy,Mill,Liner Plate,High,EA,11309.95,,1,Active
+PRD0073,THI-0073-M,Rake Arm Component M Chrome Alloy,Thickener,Rake Arm Component,Critical,EA,34818.77,26264.04,1,Active
+PRD0074,THI-0074-S,Rake Arm Component S Composite,Thickener,Rake Arm Component,Critical,EA,36129.01,24732.64,1,Active
+PRD0075,WEA-0075-M,Chute Liner M Manganese,Wear Parts,Chute Liner,High,EA,1536.67,1121.32,0,Active
+PRD0076,CRU-0076-M,Mantle M Polyurethane,Crusher,Mantle,High,EA,22702.93,16341.73,1,Active
+PRD0077,LUB-0077-HD,Filter Element HD Chrome Alloy,Lubrication,Filter Element,Medium,EA,354.66,248.64,1,Active
+PRD0078,MIL-0078-M,Liner Plate M Manganese,Mill,Liner Plate,High,EA,12038.6,9054.13,0,Active
+PRD0079,MIL-0079-M,Liner Plate M Manganese,Mill,Liner Plate,High,EA,10511.62,,0,Active
+PRD0080,PUM-0080-M,Impeller M Polyurethane,Pump,Impeller,High,EA,6324.37,4913.1,0,Active
+PRD0081,SCR-0081-HD,Screen Panel HD Chrome Alloy,Screening,Screen Panel,Medium,EA,1292.09,976.54,1,Active
+PRD0082,CON-0082-XL,Pulley Lagging XL Polyurethane,Conveyor,Pulley Lagging,Medium,EA,2091.14,1221.82,0,Phase-out
+PRD0083,PUM-0083-HD,Impeller HD Steel,Pump,Impeller,High,EA,4438.07,2397.2,0,Active
+PRD0084,MIL-0084-L,Trunnion Seal L Composite,Mill,Trunnion Seal,Critical,EA,41661.72,22536.92,0,Active
+PRD0085,FLO-0085-HD,Stator HD Steel,Flotation,Stator,High,EA,9766.22,5241.53,1,Active
+PRD0086,PUM-0086-XL,Casing XL Polyurethane,Pump,Casing,Medium,EA,5270.77,3882.19,1,Phase-out
+PRD0087,CON-0087-S,Pulley Lagging S Chrome Alloy,Conveyor,Pulley Lagging,Medium,EA,2369.88,1235.97,0,Active
+PRD0088,HYD-0088-XL,Cylinder Seal Kit XL Polyurethane,Hydraulics,Cylinder Seal Kit,Medium,EA,1128.81,802.59,0,Active
+PRD0089,MIL-0089-L,Liner Plate L Polyurethane,Mill,Liner Plate,High,EA,10220.78,6348.16,1,Active
+PRD0090,WEA-0090-XL,Chute Liner XL Steel,Wear Parts,Chute Liner,High,EA,2609.16,1719.1,1,Phase-out
+PRD0091,SCR-0091-HD,Screen Panel HD Rubber,Screening,Screen Panel,Medium,EA,880.74,556.13,1,Active
+PRD0092,CRU-0092-L,Mantle L Polyurethane,Crusher,Mantle,High,EA,17592.35,11227.82,0,Active
+PRD0093,MIL-0093-XL,Trunnion Seal XL Composite,Mill,Trunnion Seal,Critical,EA,40092.59,25750.66,1,Phase-out
+PRD0094,CRU-0094-L,Mantle L Steel,Crusher,Mantle,High,EA,23402.59,16922.89,0,Active
+PRD0095,MIL-0095-M,Liner Plate M Rubber,Mill,Liner Plate,High,EA,11442.02,6659.5,1,Active
+PRD0096,SCR-0096-M,Screen Panel M Polyurethane,Screening,Screen Panel,Medium,EA,1619.36,1164.96,0,Phase-out
+PRD0097,SCR-0097-HD,Screen Panel HD Manganese,Screening,Screen Panel,Medium,EA,917.44,672.5,0,Active
+PRD0098,SCR-0098-S,Screen Panel S Composite,Screening,Screen Panel,Medium,EA,1470.96,1112.17,1,Active
+PRD0099,CON-0099-M,Pulley Lagging M Rubber,Conveyor,Pulley Lagging,Medium,EA,2856.83,2102.48,0,Active
+PRD0100,CON-0100-L,Pulley Lagging L Manganese,Conveyor,Pulley Lagging,Medium,EA,2875.95,1586.01,0,Active
+PRD0101,PUM-0101-XL,Casing XL Manganese,Pump,Casing,Medium,EA,7552.22,4920.65,0,Active
+PRD0102,WEA-0102-XL,Chute Liner XL Polyurethane,Wear Parts,Chute Liner,High,EA,1208.86,930.59,1,Active
+PRD0103,FLO-0103-M,Stator M Manganese,Flotation,Stator,High,EA,8436.58,5813.81,1,Active
+PRD0104,FLO-0104-HD,Stator HD Chrome Alloy,Flotation,Stator,High,EA,6612.45,4902.77,0,Active
+PRD0105,LUB-0105-XL,Filter Element XL Steel,Lubrication,Filter Element,Medium,EA,588.2,393.01,1,Active
+PRD0106,CRU-0106-XL,Mantle XL Composite,Crusher,Mantle,High,EA,14973.12,8611.81,0,Active
+PRD0107,MIL-0107-STD,Trunnion Seal STD Manganese,Mill,Trunnion Seal,Critical,EA,41312.9,27452.66,1,Active
+PRD0108,CRU-0108-M,Concave M Manganese,Crusher,Concave,High,EA,23241.42,15440.34,0,Active
+PRD0109,THI-0109-HD,Rake Arm Component HD Polyurethane,Thickener,Rake Arm Component,Critical,EA,34043.41,17855.2,1,Active
+PRD0110,FLO-0110-HD,Stator HD Steel,Flotation,Stator,High,EA,6884.68,4621.03,1,Phase-out
+PRD0111,PUM-0111-L,Casing L Polyurethane,Pump,Casing,Medium,EA,12185.07,8079.93,0,Active
+PRD0112,MIL-0112-L,Trunnion Seal L Composite,Mill,Trunnion Seal,Critical,EA,23774.53,16821.29,1,Active
+PRD0113,CON-0113-STD,Pulley Lagging STD Manganese,Conveyor,Pulley Lagging,Medium,EA,1920.84,1106.9,1,Active
+PRD0114,CON-0114-STD,Pulley Lagging STD Chrome Alloy,Conveyor,Pulley Lagging,Medium,EA,2867.62,2222.21,0,Active
+PRD0115,MIL-0115-L,Liner Plate L Steel,Mill,Liner Plate,High,EA,8570.41,6034.3,0,Active
+PRD0116,CRU-0116-S,Mantle S Chrome Alloy,Crusher,Mantle,High,EA,16958.46,12981.08,1,Active
+PRD0117,WEA-0117-S,Chute Liner S Chrome Alloy,Wear Parts,Chute Liner,High,EA,1494.94,963.44,0,Active
+PRD0118,CRU-0118-L,Mantle L Polyurethane,Crusher,Mantle,High,EA,13753.57,7385.52,1,Active
+PRD0119,SCR-0119-HD,Screen Panel HD Manganese,Screening,Screen Panel,Medium,EA,844.33,471.8,0,Active
+PRD0120,MIL-0120-S,Liner Plate S Chrome Alloy,Mill,Liner Plate,High,EA,12729.99,8626.38,0,Phase-out

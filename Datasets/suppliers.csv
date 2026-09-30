@@ -1,0 +1,11 @@
+supplier_id,supplier_name,country,default_lead_time_days,supplier_type,currency
+SUP001,Atlas Components Chile,CL,25,Local,USD
+SUP002,Nordic Wear Parts,SE,95,Global,EUR
+SUP003,Andes Foundry,CL,40,Local,USD
+SUP004,Shanghai Mining Components,CN,120,Global,USD
+SUP005,Milwaukee Industrial Parts,US,75,Global,USD
+SUP006,Sao Paulo Rubber Tech,BR,60,Regional,USD
+SUP007,Johannesburg Screens,ZA,110,Global,USD
+SUP008,Monterrey Service Center,MX,55,Regional,USD
+SUP009,Lima Hydraulic Seals,PE,35,Regional,USD
+SUP010,German Drive Systems,DE,100,Global,EUR

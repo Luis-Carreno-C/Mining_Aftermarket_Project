@@ -1,0 +1,20 @@
+customer_id,customer_group,site_name,city,commodity,segment,account_tier,country
+CUST001,Codelco,Chuquicamata,Calama,Copper,Large Mining,Strategic,CL
+CUST002,Codelco,El Teniente,Rancagua,Copper,Large Mining,Strategic,CL
+CUST003,BHP,Escondida,Antofagasta,Copper,Large Mining,Strategic,CL
+CUST004,BHP,Spence,Sierra Gorda,Copper,Large Mining,Strategic,CL
+CUST005,Antofagasta Minerals,Los Pelambres,Salamanca,Copper,Large Mining,Strategic,CL
+CUST006,Antofagasta Minerals,Centinela,Sierra Gorda,Copper,Large Mining,Strategic,CL
+CUST007,Teck,Quebrada Blanca,Iquique,Copper,Large Mining,Strategic,CL
+CUST008,Lundin Mining,Candelaria,Tierra Amarilla,Copper,Large Mining,Key Account,CL
+CUST009,Capstone Copper,Caserones,Copiapó,Copper,Large Mining,Key Account,CL
+CUST010,Freeport-McMoRan,El Abra,Calama,Copper,Large Mining,Key Account,CL
+CUST011,Anglo American,Los Bronces,Santiago,Copper,Large Mining,Strategic,CL
+CUST012,Sierra Gorda SCM,Sierra Gorda,Sierra Gorda,Copper/Moly,Large Mining,Key Account,CL
+CUST013,Kinross,La Coipa,Copiapó,Gold,Medium Mining,Standard,CL
+CUST014,SQM,Salar de Atacama,San Pedro de Atacama,Lithium,Industrial Mining,Standard,CL
+CUST015,CMP,Los Colorados,Vallenar,Iron Ore,Medium Mining,Standard,CL
+CUST013,Kinross,La Coipa,Copiapó,Gold,Medium Mining,Standard,CL
+CUST005,Antofagasta Minerals,Los Pelambres,Salamanca,Copper,Large Mining,Strategic,CL
+CUST_DUP_006,ANTOFAGASTA MINERALS,Centinela,Sierra Gorda,Copper,Large Mining,Strategic,CL
+CUST_DUP_004,BHP ,Spence,Sierra Gorda,Copper,Large Mining,Strategic,CL
